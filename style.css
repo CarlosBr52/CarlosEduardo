@@ -24,6 +24,9 @@ main {
   margin: 50px auto;
   padding: 20px;
 }
+strong{
+  color: #22d4fd;
+}
 
 main section {
   flex: 1;
